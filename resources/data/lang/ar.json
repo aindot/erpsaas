@@ -1,5 +1,5 @@
 {
-    "General": "جنرال لواء",
+    "General": "عام",
     "Number Prefix": "بادئة الأرقام",
     "Number Digits": "أرقام الأرقام",
     "Content": "المحتوى",
@@ -27,6 +27,7 @@
     "gray": "رمادي",
     "3X Large": "مقاس كبير 3 مرات",
     "Tax": "ضريبة",
+    "Taxes": "الضرائب",
     "Timezone": "المنطقة الزمنية",
     "Type": "النوع",
     "Primary Color": "اللون الأساسي",
@@ -35,6 +36,7 @@
     "Price Name": "اسم السعر",
     "Credit": "الائتمان",
     "Department": "قسم",
+    "Departments": "الأقسام",
     "Precision": "الدقة",
     "Entity Type": "نوع الكيان",
     "Before Number": "قبل الرقم",
@@ -63,6 +65,7 @@
     "Banking": "الخدمات المصرفية",
     "Service": "خدمة",
     "Account": "الحساب",
+    "Accounts": "الحسابات",
     "Compound": "مركب",
     "amber": "كهرمان",
     "green": "خضراء",
@@ -104,6 +107,7 @@
     "Manager": "مدير",
     "Sales Discount": "خصم المبيعات",
     "Currency": "العملة",
+    "Currencies": "العملات",
     "Localization": "التعريب",
     "Parent Department": "قسم أولياء الأمور",
     "Default :Record": "الخيار الافتراضي :Record",
@@ -176,6 +180,7 @@
     "2X Large": "2 × حجم كبير",
     "None": "لا شيء",
     "Discount": "الخصم",
+    "Discounts": "الخصومات",
     "Depository": "جهة الإيداع",
     "Week Start": "بداية الأسبوع",
     "Product": "المنتج",
@@ -185,5 +190,10 @@
     "Descending": "تنازلي",
     "Other": "أخرى",
     "Logo": "الشعار",
-    "Products": "منتجات"
+    "Products": "منتجات",
+    "Terms": "الشروط",
+    "Edit": "تحرير",
+    "Notes": "الملاحظات",
+    "Ending Balance": "الرصيد النهائي",
+    "Choose the template and edit the column names.":"حدد القالب وقم بتعديل إسم القوائم"
 }

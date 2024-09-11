@@ -174,7 +174,7 @@ class Invoice extends Page
     protected function getTemplateSection(): Component
     {
         return Section::make('Template')
-            ->description('Choose the template and edit the column names.')
+            ->description(__('Choose the template and edit the column names.'))
             ->schema([
                 Grid::make(1)
                     ->schema([
